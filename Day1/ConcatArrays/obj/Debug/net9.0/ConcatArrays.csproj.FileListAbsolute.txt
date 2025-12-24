@@ -1,0 +1,14 @@
+C:\Users\berna\Documents\Repositórios GitHub\LeetCodes\Day1\ConcatArrays\obj\Debug\net9.0\ConcatArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berna\Documents\Repositórios GitHub\LeetCodes\Day1\ConcatArrays\obj\Debug\net9.0\ConcatArrays.AssemblyInfoInputs.cache
+C:\Users\berna\Documents\Repositórios GitHub\LeetCodes\Day1\ConcatArrays\obj\Debug\net9.0\ConcatArrays.AssemblyInfo.cs
+C:\Users\berna\Documents\Repositórios GitHub\LeetCodes\Day1\ConcatArrays\obj\Debug\net9.0\ConcatArrays.csproj.CoreCompileInputs.cache
+C:\Users\berna\Documents\Repositórios GitHub\LeetCodes\Day1\ConcatArrays\bin\Debug\net9.0\ConcatArrays.exe
+C:\Users\berna\Documents\Repositórios GitHub\LeetCodes\Day1\ConcatArrays\bin\Debug\net9.0\ConcatArrays.deps.json
+C:\Users\berna\Documents\Repositórios GitHub\LeetCodes\Day1\ConcatArrays\bin\Debug\net9.0\ConcatArrays.runtimeconfig.json
+C:\Users\berna\Documents\Repositórios GitHub\LeetCodes\Day1\ConcatArrays\bin\Debug\net9.0\ConcatArrays.dll
+C:\Users\berna\Documents\Repositórios GitHub\LeetCodes\Day1\ConcatArrays\bin\Debug\net9.0\ConcatArrays.pdb
+C:\Users\berna\Documents\Repositórios GitHub\LeetCodes\Day1\ConcatArrays\obj\Debug\net9.0\ConcatArrays.dll
+C:\Users\berna\Documents\Repositórios GitHub\LeetCodes\Day1\ConcatArrays\obj\Debug\net9.0\refint\ConcatArrays.dll
+C:\Users\berna\Documents\Repositórios GitHub\LeetCodes\Day1\ConcatArrays\obj\Debug\net9.0\ConcatArrays.pdb
+C:\Users\berna\Documents\Repositórios GitHub\LeetCodes\Day1\ConcatArrays\obj\Debug\net9.0\ConcatArrays.genruntimeconfig.cache
+C:\Users\berna\Documents\Repositórios GitHub\LeetCodes\Day1\ConcatArrays\obj\Debug\net9.0\ref\ConcatArrays.dll
