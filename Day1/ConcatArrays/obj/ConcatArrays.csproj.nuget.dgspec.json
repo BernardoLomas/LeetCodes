@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\berna\\Documents\\Repositórios GitHub\\LeetCodes\\Day1\\ConcatArrays\\ConcatArrays.csproj": {}
+    "C:\\Users\\berna\\Documents\\Repositórios GitHub\\Estudos\\LeetCodes\\Day1\\ConcatArrays\\ConcatArrays.csproj": {}
   },
   "projects": {
-    "C:\\Users\\berna\\Documents\\Repositórios GitHub\\LeetCodes\\Day1\\ConcatArrays\\ConcatArrays.csproj": {
+    "C:\\Users\\berna\\Documents\\Repositórios GitHub\\Estudos\\LeetCodes\\Day1\\ConcatArrays\\ConcatArrays.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\berna\\Documents\\Repositórios GitHub\\LeetCodes\\Day1\\ConcatArrays\\ConcatArrays.csproj",
+        "projectUniqueName": "C:\\Users\\berna\\Documents\\Repositórios GitHub\\Estudos\\LeetCodes\\Day1\\ConcatArrays\\ConcatArrays.csproj",
         "projectName": "ConcatArrays",
-        "projectPath": "C:\\Users\\berna\\Documents\\Repositórios GitHub\\LeetCodes\\Day1\\ConcatArrays\\ConcatArrays.csproj",
+        "projectPath": "C:\\Users\\berna\\Documents\\Repositórios GitHub\\Estudos\\LeetCodes\\Day1\\ConcatArrays\\ConcatArrays.csproj",
         "packagesPath": "C:\\Users\\berna\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\berna\\Documents\\Repositórios GitHub\\LeetCodes\\Day1\\ConcatArrays\\obj\\",
+        "outputPath": "C:\\Users\\berna\\Documents\\Repositórios GitHub\\Estudos\\LeetCodes\\Day1\\ConcatArrays\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\berna\\AppData\\Roaming\\NuGet\\NuGet.Config"
