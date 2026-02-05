@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\berna\\Documents\\Repositórios GitHub\\LeetCodes\\Day2\\Day2.csproj",
+      "projectUniqueName": "C:\\Users\\berna\\Documents\\Repositórios GitHub\\Estudos\\LeetCodes\\Day2\\Day2.csproj",
       "projectName": "Day2",
-      "projectPath": "C:\\Users\\berna\\Documents\\Repositórios GitHub\\LeetCodes\\Day2\\Day2.csproj",
+      "projectPath": "C:\\Users\\berna\\Documents\\Repositórios GitHub\\Estudos\\LeetCodes\\Day2\\Day2.csproj",
       "packagesPath": "C:\\Users\\berna\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\berna\\Documents\\Repositórios GitHub\\LeetCodes\\Day2\\obj\\",
+      "outputPath": "C:\\Users\\berna\\Documents\\Repositórios GitHub\\Estudos\\LeetCodes\\Day2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\berna\\AppData\\Roaming\\NuGet\\NuGet.Config"

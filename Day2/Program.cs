@@ -17,12 +17,12 @@ class Program
 {
     public void Main()
     {
-        Console.WriteLine($"Array length: ");
+        Console.WriteLine($"Array L: ");
         int qntd = int.Parse(Console.ReadLine());
 
         int [] array = new int [qntd]; 
 
-        for(int i = 0; i < array.length; i++)
+        for(int i = 0; i < array.Length; i++)
         {
             Console.WriteLine($"Index {i + 1}/{qntd}: ");
             array[i] = int.Parse(Console.ReadLine());
@@ -35,7 +35,7 @@ class Program
 
         do
         {
-            for(int i = 0; i < array.lenght; i++)
+            for(int i = 0; i < array.Lenght; i++)
             {
                 if(array[i] + cont <= target)
                 {
@@ -45,7 +45,7 @@ class Program
             }
         } while (cont != target);
 
-        for(int i = 0; i < ArrayTargets.lenght; i++)
+        for(int i = 0; i < ArrayTargets.Lenght; i++)
         {
             Console.WriteLine($"Index: {i} + ");
         }
