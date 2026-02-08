@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConcatArrays")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eb2766b1b909aa86eb0f5fc3d6eacd7025dd5de6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+85f8efc04168a738bd0a6f2c0b82c24c00232e46")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConcatArrays")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConcatArrays")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
