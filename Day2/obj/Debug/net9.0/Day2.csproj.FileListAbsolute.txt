@@ -1,5 +1,0 @@
-C:\Users\berna\Documents\Repositórios GitHub\Estudos\LeetCodes\Day2\obj\Debug\net9.0\Day2.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\berna\Documents\Repositórios GitHub\Estudos\LeetCodes\Day2\obj\Debug\net9.0\Day2.AssemblyInfoInputs.cache
-C:\Users\berna\Documents\Repositórios GitHub\Estudos\LeetCodes\Day2\obj\Debug\net9.0\Day2.AssemblyInfo.cs
-C:\Users\berna\Documents\Repositórios GitHub\Estudos\LeetCodes\Day2\obj\Debug\net9.0\Day2.csproj.CoreCompileInputs.cache
-C:\Users\berna\Documents\Repositórios GitHub\Estudos\LeetCodes\Day2\obj\Debug\net9.0\Day2.sourcelink.json
